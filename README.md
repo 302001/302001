@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Vernika Agarwal👋
+
+I’m currently learning DSA
+
 
 <!--
 **302001/302001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
