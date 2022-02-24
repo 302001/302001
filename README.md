@@ -3,6 +3,7 @@
 I’m B.tech Student
 
 🌱 I’m currently learning DSA
+🔭 I’m currently working on Problem Solving and blockchain
 <!--
 **302001/302001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
